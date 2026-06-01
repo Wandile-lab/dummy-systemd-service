@@ -79,3 +79,6 @@ The systemd journal logs:
 
     sudo journalctl -u dummy -f
 ```
+---
+### Project Url
+https://roadmap.sh/projects/dummy-systemd-service
